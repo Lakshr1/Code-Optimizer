@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    
+  }
+
+  label[for="inputFile"] {
+    float: left;
+    text-align : left;
+  }
+  
+  
+
+  h1 {
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20 px;
+    color: white;
+    
+  }
+
+  button {
+    display: block;
+    margin: 0 auto;
+  }
+
+  #output {
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  
+  form {
+    margin: 20px auto;
+    width: 60%;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="file"] {
+    margin-bottom: 20px;
+  }
+  
+  button[type="button"] {
+    background-color: #6c66ed;
+    display: block;
+    margin: 0 auto;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button[type="button"]:hover {
+    background-color: #3e8e41;
+  }
+  
+  h2 {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  pre {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 4px;
+    overflow: auto;
+  }
+  

@@ -1,0 +1,6 @@
+left=right
+a=b
+a=b
+b=c+g
+e=c+d
+f=b+e
